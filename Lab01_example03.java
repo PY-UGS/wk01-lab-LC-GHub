@@ -1,7 +1,6 @@
-
 public class Lab01_example03 {
 
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 		
 		String module = "CSC1009";
 		switch(module)
@@ -22,7 +21,7 @@ public class Lab01_example03 {
 			System.out.println("Computer Networks");
 			break;
 		default:
-			System.out.println("Unknown Module");
+			System.out.println("Unknow Module");
 			break;
 		}
 		
@@ -30,5 +29,5 @@ public class Lab01_example03 {
 				
 
 	}
-
+    
 }

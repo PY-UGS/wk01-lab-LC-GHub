@@ -1,7 +1,5 @@
-
 public class Lab01_example04 {
-
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 		
 		for(int x = 102; x>= 66 ; x=x-1)
 		{
@@ -14,5 +12,5 @@ public class Lab01_example04 {
 		}
 
 	}
-
+    
 }
